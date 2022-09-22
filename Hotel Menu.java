@@ -1,4 +1,4 @@
-//Create a menu for food counter and accept the items from user and display the final Bill amount with the item is ordered
+//Q3: Create a menu for food counter and accept the items from user and display the final Bill amount with the item is ordered
 
 import java.util.*;
 
