@@ -1,4 +1,4 @@
-//Write a program to calculate HCF of Two given number.//
+//Write a program to calculate HCF of Two given number.
 
 import java.util.*;
 
