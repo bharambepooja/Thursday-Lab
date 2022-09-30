@@ -1,4 +1,4 @@
-//Write a program to accept a number from user and then prints the sum of the even and odd integers.//
+//Write a program to accept a number from user and then prints the sum of the even and odd integers.
 
 package Thusday_Lab;
 
