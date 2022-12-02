@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class userProcess {
+public class UserProcess {
 
 	public static void main(String[] args) {
 		userprocess obj = new userprocess();
